@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Different Stuff for FiveM**
 
-- 🌱 I’m currently learning **LUA and Python**
+- 🌱 I’m currently learning **LUA**
 
 - 💬 Ask me about **Nothing please I am dumb.**
 
