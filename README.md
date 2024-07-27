@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I am a Furry.**
 
-[![Stevelo03's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Stevelo03)
+[![Stevelo03's GitHub | Dependencies](https://stats.quine.sh/Stevelo03/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Stevelo03)
 [![Stevelo03's GitHub | Stats](https://stats.quira.sh/Stevelo03/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Stevelo03)
 
 <h3 align="left">Connect with me:</h3>
