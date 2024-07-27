@@ -13,10 +13,8 @@
 
 - ⚡ Fun fact **I'm a Furry.**
 
-[![Stevelo03's GitHub | Dependencies](https://stats.quine.sh/Stevelo03/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Stevelo03)
 [![Stevelo03's GitHub | Stats](https://stats.quira.sh/Stevelo03/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Stevelo03)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevelo03&show_icons=true&theme=synthwave&locale=en" alt="stevelo03" /></p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
