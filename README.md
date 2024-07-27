@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **I am a Furry.**
 
+[![Stevelo03's GitHub | Dependencies](https://stats.quine.sh/bap/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Stevelo03)
+[![Stevelo03's GitHub | Stats](https://stats.quira.sh/Stevelo03/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Stevelo03)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stevelo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stevelo_" height="30" width="40" /></a>
