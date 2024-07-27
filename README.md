@@ -11,7 +11,7 @@
 
 - 📫 How to reach me | E-Mail **stevelo@elysiongames.net**
 
-- ⚡ Fun fact **I am a Furry.**
+- ⚡ Fun fact **I'm a Furry.**
 
 [![Stevelo03's GitHub | Dependencies](https://stats.quine.sh/Stevelo03/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Stevelo03)
 [![Stevelo03's GitHub | Stats](https://stats.quira.sh/Stevelo03/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Stevelo03)
