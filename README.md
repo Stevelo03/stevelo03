@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Different Stuff for FiveM**
 
-- 🌱 I’m currently learning **LUA**
+- 🌱 I’m currently learning **many things**
 
 - 💬 Ask me about **Nothing please I am dumb.**
 
@@ -13,8 +13,8 @@
 
 - ⚡ Fun fact **I'm a Furry.**
 
-[![Stevelo03's GitHub | Stats](https://stats.quira.sh/Stevelo03/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Stevelo03)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stevelo03&show_icons=true&theme=synthwave&locale=en" alt="stevelo03" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevelo03&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
