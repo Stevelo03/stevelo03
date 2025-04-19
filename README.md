@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stevelo</h1>
 <h3 align="center">Community Owner of ElysionGames</h3>
 
-- 🔭 I’m currently working on **Different Stuff**
+- 🔭 I’m currently working on **different things**
 
-- 🌱 I’m currently learning **many things**
+- 🌱 I’m currently learning **many things, and nothing at the same time**
 
-- 💬 Ask me about **Nothing please I am dumb.**
+- 💬 Ask me about **nothing please I am dumb.**
 
 - 📫 How to reach me | Discord **Stevelo**
 
